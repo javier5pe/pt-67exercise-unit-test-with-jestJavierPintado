@@ -2,7 +2,7 @@
 
 // Exporta la función para usarla en otros archivos 
 // (similar a la palabra clave "export" cuando se usa webpack)
-// module.exports = { sum };
+
 
 
 // ejercicio 11
